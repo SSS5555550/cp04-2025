@@ -67,11 +67,15 @@ body{
     #btnB {
         font-size: 25px;
         position:absolute; top:380px; left:40%; width:30%; height:60px; 
+         background-color: rgb(255, 0, 34);
+         color: white;
     }
 
     #btnC {
         font-size: 25px;
         position:absolute; top:380px; left:70%; width:30%; height:60px; 
+         background-color: rgb(234, 0, 255);
+         color: rgb(0, 128, 90);
     }
 
 #btnD {
